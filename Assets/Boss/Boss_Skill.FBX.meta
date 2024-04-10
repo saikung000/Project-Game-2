@@ -1,0 +1,3235 @@
+fileFormatVersion: 2
+guid: 84504fc292749a543aa67903aa9026a3
+timeCreated: 1492446224
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boss_Big_Gun
+    100002: Boss_Body
+    100004: Boss_Front_gun
+    100006: Boss_front_gun2
+    100008: Boss_Front_gun3
+    100010: Boss_Front_gun4
+    100012: Boss_Leg_BL
+    100014: Boss_Leg_BR
+    100016: Boss_Leg_FL
+    100018: Boss_Leg_FR
+    100020: Boss_MillsileBase_1
+    100022: Boss_MillsileBase_2
+    100024: Boss_MillsileBase_3
+    100026: Boss_MillsileBase_4
+    100028: //RootNode
+    100030: CATRigAnkleBone001
+    100032: CATRigAnkleBone001Bone001
+    100034: CATRigAnkleBone001Bone001 1
+    100036: CATRigAnkleBone001Bone001 2
+    100038: CATRigAnkleBone001Bone001 3
+    100040: CATRigAnkleBone001Bone001 4
+    100042: CATRigAnkleBone001Bone001 5
+    100044: CATRigAnkleBone001Bone001 6
+    100046: CATRigAnkleBone001Bone001Bone004
+    100048: CATRigAnkleBone001Bone001Bone004 1
+    100050: CATRigAnkleBone001Bone001Bone004 2
+    100052: CATRigAnkleBone001Bone001Bone004 3
+    100054: CATRigAnkleBone001Bone002
+    100056: CATRigAnkleBone001Bone002 1
+    100058: CATRigAnkleBone001Bone002 2
+    100060: CATRigAnkleBone001Bone002 3
+    100062: CATRigAnkleBone001Bone003
+    100064: CATRigAnkleBone001Bone003 1
+    100066: CATRigAnkleBone001Bone003 2
+    100068: CATRigAnkleBone001Bone003 3
+    100070: CATRigHub001
+    100072: CATRigHub001Bone001
+    100074: CATRigHub001Bone002
+    100076: CATRigHub001Bone003
+    100078: CATRigHub001Bone004
+    100080: CATRigHub001Bone005
+    100082: CATRigLLeg1
+    100084: CATRigLLeg1 1
+    100086: CATRigLLeg2
+    100088: CATRigLLeg2 1
+    100090: CATRigLLeg3
+    100092: CATRigLLeg3 1
+    100094: CATRigLLegAnkle
+    100096: CATRigLLegAnkle 1
+    100098: CATRigLLegPlatform
+    100100: CATRigLLegPlatform 1
+    100102: CATRigRLeg1
+    100104: CATRigRLeg1 1
+    100106: CATRigRLeg2
+    100108: CATRigRLeg2 1
+    100110: CATRigRLeg3
+    100112: CATRigRLeg3 1
+    100114: CATRigRLegAnkle
+    100116: CATRigRLegAnkle 1
+    100118: CATRigRLegPlatform
+    100120: CATRigRLegPlatform 1
+    100122: Character001
+    100124: group2
+    100126: Gun
+    100128: pCube10
+    100130: pCube8
+    100132: pCube9
+    100134: polySurface11
+    100136: pSphere1
+    100138: pSphere4
+    100140: transform6
+    400000: Boss_Big_Gun
+    400002: Boss_Body
+    400004: Boss_Front_gun
+    400006: Boss_front_gun2
+    400008: Boss_Front_gun3
+    400010: Boss_Front_gun4
+    400012: Boss_Leg_BL
+    400014: Boss_Leg_BR
+    400016: Boss_Leg_FL
+    400018: Boss_Leg_FR
+    400020: Boss_MillsileBase_1
+    400022: Boss_MillsileBase_2
+    400024: Boss_MillsileBase_3
+    400026: Boss_MillsileBase_4
+    400028: //RootNode
+    400030: CATRigAnkleBone001
+    400032: CATRigAnkleBone001Bone001
+    400034: CATRigAnkleBone001Bone001 1
+    400036: CATRigAnkleBone001Bone001 2
+    400038: CATRigAnkleBone001Bone001 3
+    400040: CATRigAnkleBone001Bone001 4
+    400042: CATRigAnkleBone001Bone001 5
+    400044: CATRigAnkleBone001Bone001 6
+    400046: CATRigAnkleBone001Bone001Bone004
+    400048: CATRigAnkleBone001Bone001Bone004 1
+    400050: CATRigAnkleBone001Bone001Bone004 2
+    400052: CATRigAnkleBone001Bone001Bone004 3
+    400054: CATRigAnkleBone001Bone002
+    400056: CATRigAnkleBone001Bone002 1
+    400058: CATRigAnkleBone001Bone002 2
+    400060: CATRigAnkleBone001Bone002 3
+    400062: CATRigAnkleBone001Bone003
+    400064: CATRigAnkleBone001Bone003 1
+    400066: CATRigAnkleBone001Bone003 2
+    400068: CATRigAnkleBone001Bone003 3
+    400070: CATRigHub001
+    400072: CATRigHub001Bone001
+    400074: CATRigHub001Bone002
+    400076: CATRigHub001Bone003
+    400078: CATRigHub001Bone004
+    400080: CATRigHub001Bone005
+    400082: CATRigLLeg1
+    400084: CATRigLLeg1 1
+    400086: CATRigLLeg2
+    400088: CATRigLLeg2 1
+    400090: CATRigLLeg3
+    400092: CATRigLLeg3 1
+    400094: CATRigLLegAnkle
+    400096: CATRigLLegAnkle 1
+    400098: CATRigLLegPlatform
+    400100: CATRigLLegPlatform 1
+    400102: CATRigRLeg1
+    400104: CATRigRLeg1 1
+    400106: CATRigRLeg2
+    400108: CATRigRLeg2 1
+    400110: CATRigRLeg3
+    400112: CATRigRLeg3 1
+    400114: CATRigRLegAnkle
+    400116: CATRigRLegAnkle 1
+    400118: CATRigRLegPlatform
+    400120: CATRigRLegPlatform 1
+    400122: Character001
+    400124: group2
+    400126: Gun
+    400128: pCube10
+    400130: pCube8
+    400132: pCube9
+    400134: polySurface11
+    400136: pSphere1
+    400138: pSphere4
+    400140: transform6
+    4300000: Boss_Body
+    4300002: Boss_MillsileBase_1
+    4300004: Boss_MillsileBase_2
+    4300006: Boss_MillsileBase_3
+    4300008: Boss_MillsileBase_4
+    4300010: Boss_Big_Gun
+    4300012: Boss_Front_gun
+    4300014: Boss_front_gun2
+    4300016: Boss_Front_gun4
+    4300018: Boss_Front_gun3
+    4300020: Boss_Leg_FL
+    4300022: Boss_Leg_BL
+    4300024: Boss_Leg_BR
+    4300026: Boss_Leg_FR
+    7400000: Missile_Begin
+    7400002: Missile_Shoot
+    7400004: Front_Shoot
+    7400006: Right_Shoot
+    7400008: Left_Shoot
+    7400010: Turning_Shoot
+    7400012: Continue_Shoot
+    7400014: Spin_Begin
+    7400016: Spinning
+    7400018: Spin_End
+    7400020: Idle1
+    7400022: Idle2
+    7400024: Random_Missile
+    9500000: //RootNode
+    13700000: Boss_Big_Gun
+    13700002: Boss_Body
+    13700004: Boss_Front_gun
+    13700006: Boss_front_gun2
+    13700008: Boss_Front_gun3
+    13700010: Boss_Front_gun4
+    13700012: Boss_Leg_BL
+    13700014: Boss_Leg_BR
+    13700016: Boss_Leg_FL
+    13700018: Boss_Leg_FR
+    13700020: Boss_MillsileBase_1
+    13700022: Boss_MillsileBase_2
+    13700024: Boss_MillsileBase_3
+    13700026: Boss_MillsileBase_4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Missile_Begin
+      takeName: Take 001
+      firstFrame: 170
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Missile_Shoot
+      takeName: Take 001
+      firstFrame: 270
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.3125002
+        functionName: SpawnBulletFollow
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 10
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Front_Shoot
+      takeName: Take 001
+      firstFrame: 320
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.30247194
+        functionName: SpawnBullet
+        data: 20/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.30266845
+        functionName: SpawnBullet
+        data: 20/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.3043083
+        functionName: SpawnBullet
+        data: 20/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.3044142
+        functionName: SpawnBullet
+        data: 20/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Right_Shoot
+      takeName: Take 001
+      firstFrame: 370
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.27162147
+        functionName: SpawnBullet
+        data: 20/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.27162147
+        functionName: SpawnBullet
+        data: 20/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.27162147
+        functionName: SpawnBullet
+        data: 20/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.27162147
+        functionName: SpawnBullet
+        data: 20/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Left_Shoot
+      takeName: Take 001
+      firstFrame: 410
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.39459473
+        functionName: SpawnBullet
+        data: 20/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.39459473
+        functionName: SpawnBullet
+        data: 20/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.39459473
+        functionName: SpawnBullet
+        data: 20/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.39459473
+        functionName: SpawnBullet
+        data: 20/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turning_Shoot
+      takeName: Take 001
+      firstFrame: 470
+      lastFrame: 560
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.28210095
+        functionName: SpawnBullet
+        data: 25/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.28210095
+        functionName: SpawnBullet
+        data: 25/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.28210095
+        functionName: SpawnBullet
+        data: 25/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.28210095
+        functionName: SpawnBullet
+        data: 25/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Continue_Shoot
+      takeName: Take 001
+      firstFrame: 560
+      lastFrame: 960
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.15175095
+        functionName: SpawnBullet
+        data: 5/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.15175095
+        functionName: SpawnBullet
+        data: 5/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.15175095
+        functionName: SpawnBullet
+        data: 5/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.15175095
+        functionName: SpawnBullet
+        data: 5/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.22762643
+        functionName: SpawnBullet
+        data: 5/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.22762643
+        functionName: SpawnBullet
+        data: 5/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.22762643
+        functionName: SpawnBullet
+        data: 5/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.22762643
+        functionName: SpawnBullet
+        data: 5/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.3015564
+        functionName: SpawnBullet
+        data: 5/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.3015564
+        functionName: SpawnBullet
+        data: 5/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.3015564
+        functionName: SpawnBullet
+        data: 5/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.3015564
+        functionName: SpawnBullet
+        data: 5/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.37548637
+        functionName: SpawnBullet
+        data: 5/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.37548637
+        functionName: SpawnBullet
+        data: 5/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.37548637
+        functionName: SpawnBullet
+        data: 5/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.37548637
+        functionName: SpawnBullet
+        data: 5/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.45136186
+        functionName: SpawnBullet
+        data: 5/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.45136186
+        functionName: SpawnBullet
+        data: 5/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.45136186
+        functionName: SpawnBullet
+        data: 5/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.45136186
+        functionName: SpawnBullet
+        data: 5/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5272375
+        functionName: SpawnBullet
+        data: 5/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5272375
+        functionName: SpawnBullet
+        data: 5/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5272375
+        functionName: SpawnBullet
+        data: 5/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5272375
+        functionName: SpawnBullet
+        data: 5/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6011672
+        functionName: SpawnBullet
+        data: 5/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6011672
+        functionName: SpawnBullet
+        data: 5/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6011672
+        functionName: SpawnBullet
+        data: 5/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6011672
+        functionName: SpawnBullet
+        data: 5/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.67509717
+        functionName: SpawnBullet
+        data: 5/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.67509717
+        functionName: SpawnBullet
+        data: 5/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.67509717
+        functionName: SpawnBullet
+        data: 5/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.67509717
+        functionName: SpawnBullet
+        data: 5/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7509727
+        functionName: SpawnBullet
+        data: 5/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7509727
+        functionName: SpawnBullet
+        data: 5/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7509727
+        functionName: SpawnBullet
+        data: 5/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7509727
+        functionName: SpawnBullet
+        data: 5/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.80155647
+        functionName: SpawnBullet
+        data: 5/3
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.80155647
+        functionName: SpawnBullet
+        data: 5/2
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.80155647
+        functionName: SpawnBullet
+        data: 5/1
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.80155647
+        functionName: SpawnBullet
+        data: 5/0
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spin_Begin
+      takeName: Take 001
+      firstFrame: 960
+      lastFrame: 1030
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spinning
+      takeName: Take 001
+      firstFrame: 1030
+      lastFrame: 1074
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spin_End
+      takeName: Take 001
+      firstFrame: 1074
+      lastFrame: 1170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle1
+      takeName: Take 001
+      firstFrame: 1170
+      lastFrame: 1290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle2
+      takeName: Take 001
+      firstFrame: 1320
+      lastFrame: 1500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: showDe
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.05707194
+        functionName: showDe()
+        data: 
+        objectReferenceParameter: {fileID: 1696351613574848, guid: bec152396a20af843a3f9198e4a18541,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Random_Missile
+      takeName: Take 001
+      firstFrame: 1550
+      lastFrame: 1770
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5476578
+        functionName: SpawnBomb
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 5
+        messageOptions: 0
+      - time: 0.5476578
+        functionName: RandomMissileLeft
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.79806125
+        functionName: RandomMissileRight
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.79806125
+        functionName: SpawnBomb
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2bc96782eb7e83e4f92b6e74d216bb29,
+          type: 3}
+        floatParameter: 0
+        intParameter: 5
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

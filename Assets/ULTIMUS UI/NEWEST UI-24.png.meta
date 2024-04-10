@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: e28170a878bd1e0499a0f2257002167e
+timeCreated: 1492702145
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerList
+    21300002: HUDLeft
+    21300004: NEWEST UI-24_2
+    21300006: NEWEST UI-24_3
+    21300008: NEWEST UI-24_4
+    21300010: NEWEST UI-24_5
+    21300012: NEWEST UI-24_6
+    21300014: NEWEST UI-24_7
+    21300016: NEWEST UI-24_8
+    21300018: NEWEST UI-24_9
+    21300020: NEWEST UI-24_10
+    21300022: NEWEST UI-24_11
+    21300024: NEWEST UI-24_12
+    21300026: NEWEST UI-24_13
+    21300028: ICONCore
+    21300030: NEWEST UI-24_15
+    21300032: NEWEST UI-24_16
+    21300034: NEWEST UI-24_17
+    21300036: NEWEST UI-24_18
+    21300038: NEWEST UI-24_19
+    21300040: NEWEST UI-24_20
+    21300042: NEWEST UI-24_21
+    21300044: NEWEST UI-24_22
+    21300046: NEWEST UI-24_23
+    21300048: NEWEST UI-24_24
+    21300050: NEWEST UI-24_25
+    21300052: NEWEST UI-24_26
+    21300054: NEWEST UI-24_27
+    21300056: NEWEST UI-24_28
+    21300058: NEWEST UI-24_29
+    21300060: NEWEST UI-24_30
+    21300062: NEWEST UI-24_31
+    21300064: NEWEST UI-24_32
+    21300066: NEWEST UI-24_33
+    21300068: NEWEST UI-24_34
+    21300070: NEWEST UI-24_35
+    21300072: NEWEST UI-24_36
+    21300074: NEWEST UI-24_37
+    21300076: NEWEST UI-24_38
+    21300078: NEWEST UI-24_39
+    21300080: NEWEST UI-24_40
+    21300082: NEWEST UI-24_41
+    21300084: NEWEST UI-24_42
+    21300086: NEWEST UI-24_43
+    21300088: NEWEST UI-24_44
+    21300090: NEWEST UI-24_45
+    21300092: NEWEST UI-24_46
+    21300094: NEWEST UI-24_47
+    21300096: NEWEST UI-24_48
+    21300098: NEWEST UI-24_49
+    21300100: NEWEST UI-24_50
+    21300102: NEWEST UI-24_51
+    21300104: NEWEST UI-24_52
+    21300106: NEWEST UI-24_53
+    21300108: NEWEST UI-24_54
+    21300110: NEWEST UI-24_55
+    21300112: NEWEST UI-24_56
+    21300114: NEWEST UI-24_57
+    21300116: NEWEST UI-24_58
+    21300118: NEWEST UI-24_59
+    21300120: NEWEST UI-24_60
+    21300122: NEWEST UI-24_61
+    21300124: NEWEST UI-24_62
+    21300126: NEWEST UI-24_63
+    21300128: NEWEST UI-24_64
+    21300130: 2
+    21300132: NEWEST UI-24_66
+    21300134: NEWEST UI-24_67
+    21300136: NEWEST UI-24_68
+    21300138: NEWEST UI-24_69
+    21300140: NEWEST UI-24_70
+    21300142: NEWEST UI-24_71
+    21300144: NEWEST UI-24_72
+    21300146: NEWEST UI-24_73
+    21300148: NEWEST UI-24_74
+    21300150: NEWEST UI-24_75
+    21300152: NEWEST UI-24_76
+    21300154: NEWEST UI-24_77
+    21300156: NEWEST UI-24_78
+    21300158: NEWEST UI-24_79
+    21300160: NEWEST UI-24_80
+    21300162: NEWEST UI-24_81
+    21300164: NEWEST UI-24_82
+    21300166: NEWEST UI-24_83
+    21300168: NEWEST UI-24_84
+    21300170: NEWEST UI-24_85
+    21300172: NEWEST UI-24_86
+    21300174: NEWEST UI-24_87
+    21300176: NEWEST UI-24_88
+    21300178: NEWEST UI-24_89
+    21300180: NEWEST UI-24_90
+    21300182: NEWEST UI-24_91
+    21300184: NEWEST UI-24_92
+    21300186: NEWEST UI-24_93
+    21300188: NEWEST UI-24_94
+    21300190: NEWEST UI-24_95
+    21300192: NEWEST UI-24_96
+    21300194: NEWEST UI-24_97
+    21300196: NEWEST UI-24_98
+    21300198: NEWEST UI-24_99
+    21300200: NEWEST UI-24_100
+    21300202: NEWEST UI-24_101
+    21300204: NEWEST UI-24_102
+    21300206: NEWEST UI-24_103
+    21300208: NEWEST UI-24_104
+    21300210: NEWEST UI-24_105
+    21300212: NEWEST UI-24_106
+    21300214: NEWEST UI-24_107
+    21300216: NEWEST UI-24_108
+    21300218: NEWEST UI-24_109
+    21300220: NEWEST UI-24_110
+    21300222: NEWEST UI-24_111
+    21300224: NEWEST UI-24_112
+    21300226: NEWEST UI-24_113
+    21300228: NEWEST UI-24_114
+    21300230: NEWEST UI-24_115
+    21300232: NEWEST UI-24_116
+    21300234: NEWEST UI-24_117
+    21300236: NEWEST UI-24_118
+    21300238: NEWEST UI-24_119
+    21300240: NEWEST UI-24_120
+    21300242: NEWEST UI-24_121
+    21300244: NEWEST UI-24_122
+    21300246: NEWEST UI-24_123
+    21300248: NEWEST UI-24_124
+    21300250: NEWEST UI-24_125
+    21300252: NEWEST UI-24_126
+    21300254: NEWEST UI-24_127
+    21300256: NEWEST UI-24_128
+    21300258: NEWEST UI-24_129
+    21300260: NEWEST UI-24_130
+    21300262: NEWEST UI-24_131
+    21300264: NEWEST UI-24_132
+    21300266: NEWEST UI-24_133
+    21300268: NEWEST UI-24_134
+    21300270: NEWEST UI-24_135
+    21300272: NEWEST UI-24_136
+    21300274: NEWEST UI-24_137
+    21300276: NEWEST UI-24_138
+    21300278: NEWEST UI-24_139
+    21300280: NEWEST UI-24_140
+    21300282: NEWEST UI-24_141
+    21300284: NEWEST UI-24_142
+    21300286: NEWEST UI-24_143
+    21300288: NEWEST UI-24_144
+    21300290: NEWEST UI-24_145
+    21300292: NEWEST UI-24_146
+    21300294: NEWEST UI-24_147
+    21300296: NEWEST UI-24_148
+    21300298: NEWEST UI-24_149
+    21300300: NEWEST UI-24_150
+    21300302: NEWEST UI-24_151
+    21300304: NEWEST UI-24_152
+    21300306: NEWEST UI-24_153
+    21300308: NEWEST UI-24_154
+    21300310: NEWEST UI-24_155
+    21300312: NEWEST UI-24_156
+    21300314: NEWEST UI-24_157
+    21300316: NEWEST UI-24_158
+    21300318: NEWEST UI-24_159
+    21300320: NEWEST UI-24_160
+    21300322: NEWEST UI-24_161
+    21300324: NEWEST UI-24_162
+    21300326: NEWEST UI-24_163
+    21300328: NEWEST UI-24_164
+    21300330: NEWEST UI-24_165
+    21300332: NEWEST UI-24_166
+    21300334: NEWEST UI-24_167
+    21300336: NEWEST UI-24_168
+    21300338: HUDRight
+    21300340: SKillQ
+    21300342: HP
+    21300344: HP2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerList
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 958
+        width: 591
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ICONCore
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 959
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 895
+        width: 190
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-24_168
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 87
+        width: 158
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDRight
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 38
+        width: 589
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDLeft
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 594
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SKillQ
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 331
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HP
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 956
+        width: 508
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 10, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HP2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 955
+        width: 150
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

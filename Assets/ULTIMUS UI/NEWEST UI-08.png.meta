@@ -1,0 +1,1812 @@
+fileFormatVersion: 2
+guid: 1b3ac88f385695147b09bfe84080b625
+timeCreated: 1491872942
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1 spin
+    21300002: NEWEST UI-08_1
+    21300004: NEWEST UI-08_2
+    21300006: NEWEST UI-08_3
+    21300008: NEWEST UI-08_4
+    21300010: NEWEST UI-08_5
+    21300012: NEWEST UI-08_6
+    21300014: NEWEST UI-08_7
+    21300016: NEWEST UI-08_8
+    21300018: NEWEST UI-08_9
+    21300020: NEWEST UI-08_10
+    21300022: NEWEST UI-08_11
+    21300024: NEWEST UI-08_12
+    21300026: NEWEST UI-08_13
+    21300028: NEWEST UI-08_14
+    21300030: NEWEST UI-08_15
+    21300032: NEWEST UI-08_16
+    21300034: NEWEST UI-08_17
+    21300036: NEWEST UI-08_18
+    21300038: NEWEST UI-08_19
+    21300040: NEWEST UI-08_20
+    21300042: NEWEST UI-08_21
+    21300044: NEWEST UI-08_22
+    21300046: NEWEST UI-08_23
+    21300048: NEWEST UI-08_24
+    21300050: NEWEST UI-08_25
+    21300052: NEWEST UI-08_26
+    21300054: NEWEST UI-08_27
+    21300056: NEWEST UI-08_28
+    21300058: NEWEST UI-08_29
+    21300060: NEWEST UI-08_30
+    21300062: NEWEST UI-08_31
+    21300064: NEWEST UI-08_32
+    21300066: NEWEST UI-08_33
+    21300068: NEWEST UI-08_34
+    21300070: NEWEST UI-08_35
+    21300072: NEWEST UI-08_36
+    21300074: NEWEST UI-08_37
+    21300076: NEWEST UI-08_38
+    21300078: NEWEST UI-08_39
+    21300080: NEWEST UI-08_40
+    21300082: NEWEST UI-08_41
+    21300084: NEWEST UI-08_42
+    21300086: NEWEST UI-08_43
+    21300088: NEWEST UI-08_44
+    21300090: NEWEST UI-08_45
+    21300092: NEWEST UI-08_46
+    21300094: NEWEST UI-08_47
+    21300096: NEWEST UI-08_48
+    21300098: NEWEST UI-08_49
+    21300100: NEWEST UI-08_50
+    21300102: NEWEST UI-08_51
+    21300104: NEWEST UI-08_52
+    21300106: NEWEST UI-08_53
+    21300108: NEWEST UI-08_54
+    21300110: NEWEST UI-08_55
+    21300112: NEWEST UI-08_56
+    21300114: NEWEST UI-08_57
+    21300116: NEWEST UI-08_58
+    21300118: NEWEST UI-08_59
+    21300120: NEWEST UI-08_60
+    21300122: NEWEST UI-08_61
+    21300124: NEWEST UI-08_62
+    21300126: NEWEST UI-08_63
+    21300128: NEWEST UI-08_64
+    21300130: NEWEST UI-08_65
+    21300132: NEWEST UI-08_66
+    21300134: NEWEST UI-08_67
+    21300136: NEWEST UI-08_68
+    21300138: NEWEST UI-08_69
+    21300140: NEWEST UI-08_70
+    21300142: NEWEST UI-08_71
+    21300144: NEWEST UI-08_72
+    21300146: NEWEST UI-08_73
+    21300148: NEWEST UI-08_74
+    21300150: NEWEST UI-08_75
+    21300152: NEWEST UI-08_76
+    21300154: NEWEST UI-08_77
+    21300156: NEWEST UI-08_78
+    21300158: NEWEST UI-08_79
+    21300160: BORDER
+    21300162: button press
+    21300164: NEWEST UI-08_82
+    21300166: NEWEST UI-08_83
+    21300168: NEWEST UI-08_84
+    21300170: NEWEST UI-08_85
+    21300172: NEWEST UI-08_86
+    21300174: NEWEST UI-08_87
+    21300176: NEWEST UI-08_88
+    21300178: NEWEST UI-08_89
+    21300180: NEWEST UI-08_90
+    21300182: NEWEST UI-08_91
+    21300184: NEWEST UI-08_92
+    21300186: NEWEST UI-08_93
+    21300188: NEWEST UI-08_94
+    21300190: NEWEST UI-08_95
+    21300192: NEWEST UI-08_96
+    21300194: NEWEST UI-08_97
+    21300196: button normal
+    21300198: button over
+    21300200: NEWEST UI-08_100
+    21300202: NEWEST UI-08_101
+    21300204: NEWEST UI-08_102
+    21300206: NEWEST UI-08_103
+    21300208: NEWEST UI-08_104
+    21300210: NEWEST UI-08_105
+    21300212: NEWEST UI-08_106
+    21300214: NEWEST UI-08_107
+    21300216: NEWEST UI-08_108
+    21300218: NEWEST UI-08_109
+    21300220: NEWEST UI-08_110
+    21300222: NEWEST UI-08_111
+    21300224: NEWEST UI-08_112
+    21300226: NEWEST UI-08_113
+    21300228: NEWEST UI-08_114
+    21300230: NEWEST UI-08_115
+    21300232: NEWEST UI-08_116
+    21300234: NEWEST UI-08_117
+    21300236: NEWEST UI-08_118
+    21300238: NEWEST UI-08_119
+    21300240: NEWEST UI-08_120
+    21300242: NEWEST UI-08_121
+    21300244: NEWEST UI-08_122
+    21300246: BIG HALO
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1 spin
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 395
+        width: 647
+        height: 647
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_1
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 954
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_2
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 962
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_3
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 970
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_4
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 976
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_5
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 980
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_6
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 983
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_7
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 986
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_8
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 987
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_9
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 986
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_10
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 985
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_11
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 982
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_12
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 978
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_13
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 972
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_14
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 966
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_15
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 958
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_16
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 923
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_17
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 935
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_18
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 944
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_19
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 950
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_20
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 940
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_21
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 929
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_22
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 896
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_23
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 910
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_24
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 917
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_25
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 904
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_26
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 890
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_27
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 866
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_28
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 881
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_29
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 875
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_30
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 859
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_31
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 833
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_32
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 850
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_33
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 842
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_34
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 825
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_35
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 796
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_36
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 815
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_37
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 806
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_38
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 776
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_39
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 787
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_40
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 768
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_41
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 756
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_42
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 748
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_43
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 735
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_44
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 726
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_45
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 712
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_46
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 705
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_47
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 691
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_48
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 683
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_49
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 670
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_50
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 661
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_51
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 647
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_52
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 639
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_53
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 624
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_54
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 616
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_55
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 602
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_56
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 593
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_57
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 579
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_58
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 570
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_59
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 556
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_60
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 546
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_61
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 531
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_62
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 521
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_63
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 506
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_64
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 496
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_65
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 481
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_66
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 472
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_67
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 456
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_68
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 448
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_69
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 432
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_70
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 423
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_71
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 409
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_72
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 400
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_73
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 385
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_74
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 376
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_75
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 362
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_76
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 353
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_77
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 339
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_78
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 317
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_79
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 331
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BORDER
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 219
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button press
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 224
+        width: 323
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_82
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 297
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_83
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 289
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_84
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 309
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_85
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 276
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_86
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 256
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_87
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 250
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_88
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 269
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_89
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 238
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_90
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 219
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_91
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 214
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_92
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 231
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_93
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 203
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_94
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 186
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_95
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 172
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_96
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 181
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_97
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 197
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button normal
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 53
+        width: 330
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button over
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 62
+        width: 330
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_100
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 158
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_101
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 145
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_102
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 134
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_103
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 141
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_104
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 153
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_105
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 166
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_106
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 122
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_107
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 114
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_108
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 106
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_109
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 99
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_110
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 97
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_111
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 103
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_112
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 111
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_113
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 119
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_114
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 130
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_115
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 93
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_116
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 90
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_117
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 88
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_118
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 85
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_119
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 86
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_120
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 87
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_121
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 88
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-08_122
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 92
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BIG HALO
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 77
+        width: 992
+        height: 958
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

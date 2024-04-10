@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: b7bcd8b5dcce1914eb00a85491666b2b
+timeCreated: 1492656462
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: P1 Pointer
+    21300002: NEWEST UI-30_1
+    21300004: NEWEST UI-30_2
+    21300006: NEWEST UI-30_3
+    21300008: NEWEST UI-30_4
+    21300010: NEWEST UI-30_5
+    21300012: NEWEST UI-30_6
+    21300014: NEWEST UI-30_7
+    21300016: NEWEST UI-30_8
+    21300018: NEWEST UI-30_9
+    21300020: NEWEST UI-30_10
+    21300022: NEWEST UI-30_11
+    21300024: NEWEST UI-30_12
+    21300026: NEWEST UI-30_13
+    21300028: NEWEST UI-30_14
+    21300030: NEWEST UI-30_15
+    21300032: NEWEST UI-30_16
+    21300034: NEWEST UI-30_17
+    21300036: NEWEST UI-30_18
+    21300038: NEWEST UI-30_19
+    21300040: NEWEST UI-30_20
+    21300042: NEWEST UI-30_21
+    21300044: NEWEST UI-30_22
+    21300046: NEWEST UI-30_23
+    21300048: NEWEST UI-30_24
+    21300050: NEWEST UI-30_25
+    21300052: NEWEST UI-30_26
+    21300054: NEWEST UI-30_27
+    21300056: NEWEST UI-30_28
+    21300058: P1 TAG
+    21300060: MAP BACK
+    21300062: P2 Pointer
+    21300064: P2 TAG
+    21300066: P3 Pointer
+    21300068: P3 TAG
+    21300070: HEAL Pointer
+    21300072: HEAL TAG
+    21300074: BOSS Pointer
+    21300076: BOSS TAG
+    21300078: M1 Pointer
+    21300080: M1 TAG
+    21300082: M2 Pointer
+    21300084: M2 TAG
+    21300086: M3 Pointer
+    21300088: M3 TAG
+    21300090: M4 Pointer
+    21300092: M4 TAG
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: P1 Pointer
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 824
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_1
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 973
+        width: 16
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 979
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_3
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 980
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 979
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_5
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 981
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_6
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 981
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_7
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 981
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_8
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 981
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_9
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 980
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_10
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 980
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_11
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 981
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_12
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 981
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_13
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 973
+        width: 16
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_14
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 980
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_15
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 980
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_16
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 981
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_17
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 981
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_18
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 980
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_19
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 981
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_20
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 980
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_21
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 980
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_22
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 979
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_23
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 981
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_24
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 980
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_25
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 979
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_26
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 980
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_27
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 980
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-30_28
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 981
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P1 TAG
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 823
+        width: 276
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MAP BACK
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 22
+        width: 1110
+        height: 932
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P2 Pointer
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 757
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P2 TAG
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 758
+        width: 276
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HEAL Pointer
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HEAL TAG
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 639
+        width: 276
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOSS Pointer
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 508
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOSS TAG
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 493
+        width: 318
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M1 Pointer
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 404
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M1 TAG
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 383
+        width: 318
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M2 Pointer
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 300
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M2 TAG
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 294
+        width: 318
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M3 Pointer
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 196
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M3 TAG
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 206
+        width: 318
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M4 Pointer
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 92
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M4 TAG
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 118
+        width: 318
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2236 @@
+fileFormatVersion: 2
+guid: dd1f90ec124523b43baf8f951cb89c71
+timeCreated: 1492625174
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NOT START
+    21300002: NEWEST UI-18_1
+    21300004: NEWEST UI-18_2
+    21300006: NEWEST UI-18_3
+    21300008: NEWEST UI-18_4
+    21300010: NEWEST UI-18_5
+    21300012: NEWEST UI-18_6
+    21300014: NEWEST UI-18_7
+    21300016: NEWEST UI-18_8
+    21300018: NEWEST UI-18_9
+    21300020: NEWEST UI-18_10
+    21300022: NEWEST UI-18_11
+    21300024: NEWEST UI-18_12
+    21300026: NEWEST UI-18_13
+    21300028: NEWEST UI-18_14
+    21300030: NEWEST UI-18_15
+    21300032: NEWEST UI-18_16
+    21300034: NEWEST UI-18_17
+    21300036: NEWEST UI-18_18
+    21300038: MouseOver
+    21300040: Ready
+    21300042: NotReady
+    21300044: NEWEST UI-18_22
+    21300046: NEWEST UI-18_23
+    21300048: NEWEST UI-18_24
+    21300050: NEWEST UI-18_25
+    21300052: NEWEST UI-18_26
+    21300054: NEWEST UI-18_27
+    21300056: NEWEST UI-18_28
+    21300058: NEWEST UI-18_29
+    21300060: NEWEST UI-18_30
+    21300062: NEWEST UI-18_31
+    21300064: NEWEST UI-18_32
+    21300066: NEWEST UI-18_33
+    21300068: NEWEST UI-18_34
+    21300070: NEWEST UI-18_35
+    21300072: NEWEST UI-18_36
+    21300074: NEWEST UI-18_37
+    21300076: NEWEST UI-18_38
+    21300078: NEWEST UI-18_39
+    21300080: NEWEST UI-18_40
+    21300082: NEWEST UI-18_41
+    21300084: NEWEST UI-18_42
+    21300086: NEWEST UI-18_43
+    21300088: START
+    21300090: NEWEST UI-18_45
+    21300092: NEWEST UI-18_46
+    21300094: NEWEST UI-18_47
+    21300096: NEWEST UI-18_48
+    21300098: NEWEST UI-18_49
+    21300100: NEWEST UI-18_50
+    21300102: NEWEST UI-18_51
+    21300104: NEWEST UI-18_52
+    21300106: NEWEST UI-18_53
+    21300108: NEWEST UI-18_54
+    21300110: NEWEST UI-18_55
+    21300112: NEWEST UI-18_56
+    21300114: NEWEST UI-18_57
+    21300116: NEWEST UI-18_58
+    21300118: NEWEST UI-18_59
+    21300120: NEWEST UI-18_60
+    21300122: NEWEST UI-18_61
+    21300124: NEWEST UI-18_62
+    21300126: NEWEST UI-18_63
+    21300128: NEWEST UI-18_64
+    21300130: NEWEST UI-18_65
+    21300132: NEWEST UI-18_66
+    21300134: NEWEST UI-18_67
+    21300136: NEWEST UI-18_68
+    21300138: NEWEST UI-18_69
+    21300140: NEWEST UI-18_70
+    21300142: NEWEST UI-18_71
+    21300144: NEWEST UI-18_72
+    21300146: NEWEST UI-18_73
+    21300148: NEWEST UI-18_74
+    21300150: NEWEST UI-18_75
+    21300152: NEWEST UI-18_76
+    21300154: NEWEST UI-18_77
+    21300156: NEWEST UI-18_78
+    21300158: NEWEST UI-18_79
+    21300160: NEWEST UI-18_80
+    21300162: NEWEST UI-18_81
+    21300164: NEWEST UI-18_82
+    21300166: NEWEST UI-18_83
+    21300168: NEWEST UI-18_84
+    21300170: START OVER
+    21300172: NEWEST UI-18_86
+    21300174: NEWEST UI-18_87
+    21300176: NEWEST UI-18_88
+    21300178: NEWEST UI-18_89
+    21300180: NEWEST UI-18_90
+    21300182: NEWEST UI-18_91
+    21300184: NEWEST UI-18_92
+    21300186: NEWEST UI-18_93
+    21300188: NEWEST UI-18_94
+    21300190: NEWEST UI-18_95
+    21300192: START CLICK
+    21300194: 1
+    21300196: NEWEST UI-18_98
+    21300198: NEWEST UI-18_99
+    21300200: NEWEST UI-18_100
+    21300202: NEWEST UI-18_101
+    21300204: NEWEST UI-18_102
+    21300206: NEWEST UI-18_103
+    21300208: NEWEST UI-18_104
+    21300210: NEWEST UI-18_105
+    21300212: NEWEST UI-18_106
+    21300214: NEWEST UI-18_107
+    21300216: NEWEST UI-18_108
+    21300218: NEWEST UI-18_109
+    21300220: NEWEST UI-18_110
+    21300222: NEWEST UI-18_111
+    21300224: NEWEST UI-18_112
+    21300226: NEWEST UI-18_113
+    21300228: NEWEST UI-18_114
+    21300230: NEWEST UI-18_115
+    21300232: NEWEST UI-18_116
+    21300234: NEWEST UI-18_117
+    21300236: NEWEST UI-18_118
+    21300238: NEWEST UI-18_119
+    21300240: NEWEST UI-18_120
+    21300242: NEWEST UI-18_121
+    21300244: NEWEST UI-18_122
+    21300246: NEWEST UI-18_123
+    21300248: NEWEST UI-18_124
+    21300250: NEWEST UI-18_125
+    21300252: NEWEST UI-18_126
+    21300254: NEWEST UI-18_127
+    21300256: NEWEST UI-18_128
+    21300258: NEWEST UI-18_129
+    21300260: NEWEST UI-18_130
+    21300262: NEWEST UI-18_131
+    21300264: NEWEST UI-18_132
+    21300266: NEWEST UI-18_133
+    21300268: NEWEST UI-18_134
+    21300270: NEWEST UI-18_135
+    21300272: LIZA
+    21300274: PSYCHE
+    21300276: NEWEST UI-18_138
+    21300278: NEWEST UI-18_139
+    21300280: NEWEST UI-18_140
+    21300282: NEWEST UI-18_141
+    21300284: NEWEST UI-18_142
+    21300286: NEWEST UI-18_143
+    21300288: NEWEST UI-18_144
+    21300290: NEWEST UI-18_145
+    21300292: NEWEST UI-18_146
+    21300294: NEWEST UI-18_147
+    21300296: NEWEST UI-18_148
+    21300298: NEWEST UI-18_149
+    21300300: NEWEST UI-18_150
+    21300302: NEWEST UI-18_151
+    21300304: NEWEST UI-18_152
+    21300306: NEWEST UI-18_153
+    21300308: NEWEST UI-18_154
+    21300310: NEWEST UI-18_155
+    21300312: NEWEST UI-18_156
+    21300314: NEWEST UI-18_157
+    21300316: NEWEST UI-18_158
+    21300318: NEWEST UI-18_159
+    21300320: NEWEST UI-18_160
+    21300322: NEWEST UI-18_161
+    21300324: NEWEST UI-18_162
+    21300326: NEWEST UI-18_163
+    21300328: NEWEST UI-18_164
+    21300330: NEWEST UI-18_165
+    21300332: NEWEST UI-18_166
+    21300334: NEWEST UI-18_167
+    21300336: NEWEST UI-18_168
+    21300338: NEWEST UI-18_169
+    21300340: NEWEST UI-18_170
+    21300342: NEWEST UI-18_171
+    21300344: NEWEST UI-18_172
+    21300346: NEWEST UI-18_173
+    21300348: NEWEST UI-18_174
+    21300350: NEWEST UI-18_175
+    21300352: NEWEST UI-18_176
+    21300354: NEWEST UI-18_177
+    21300356: NEWEST UI-18_178
+    21300358: NEWEST UI-18_179
+    21300360: PressClick
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NOT START
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 914
+        width: 478
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 914
+        width: 289
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_2
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 708
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_3
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1010
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_4
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1013
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_5
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1015
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_6
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1018
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_7
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1019
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_8
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1021
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_9
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1021
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_10
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1020
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_11
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1020
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_12
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1018
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_13
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1017
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_14
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1015
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_15
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1012
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_16
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1007
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_17
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1008
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_18
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1005
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 934
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_28
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 938
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_29
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 927
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_30
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 931
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_31
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 919
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_32
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 924
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_33
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 911
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_34
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 916
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_35
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 904
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_36
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 908
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_37
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 896
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_38
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 900
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_39
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 892
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_40
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 888
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_41
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 884
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_42
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 880
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_43
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 876
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: START
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 756
+        width: 478
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_45
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 758
+        width: 289
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_46
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 863
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_47
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 859
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_48
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 855
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_49
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 851
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_50
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 846
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_51
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 842
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_52
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 837
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_53
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 834
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_54
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 829
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_55
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 825
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_61
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 820
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_62
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 817
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_63
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 813
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_64
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 809
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_65
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 805
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_66
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 801
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_67
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 796
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_68
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 725
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_69
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 721
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_70
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 718
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_71
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 715
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_72
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 713
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_73
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 714
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_74
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 717
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_75
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 720
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_76
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 723
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_77
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 609
+        width: 289
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_78
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 711
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_79
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 709
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_80
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 708
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_81
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 708
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_82
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 709
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_83
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 710
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_84
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 712
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: START OVER
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 596
+        width: 478
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_95
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 594
+        width: 377
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: START CLICK
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 437
+        width: 478
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 437
+        width: 289
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_109
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 162
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_110
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 464
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_111
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 467
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_112
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 469
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_113
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 472
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_114
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 473
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_115
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 475
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_116
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 475
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_117
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 474
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_118
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 474
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_119
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 472
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_120
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 471
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_121
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 469
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_122
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 466
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_123
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 461
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_124
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 462
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_125
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 459
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_126
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 388
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_127
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 392
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_128
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 343
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_129
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 343
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_130
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 381
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_131
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 385
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_132
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 373
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_133
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 378
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_134
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 365
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_135
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 370
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LIZA
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 40
+        width: 286
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSYCHE
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 34
+        width: 283
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_138
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 358
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_139
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 362
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_140
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 350
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_141
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 354
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_142
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 346
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_143
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 342
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_144
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 338
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_145
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 334
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_146
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 330
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_147
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 317
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_148
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 313
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_149
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 309
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_150
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 305
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_151
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 300
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_152
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 296
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_153
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 291
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_154
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 288
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_155
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 283
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_156
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 279
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_157
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 274
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_158
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 271
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_159
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 267
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_160
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 263
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_161
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 259
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_162
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 255
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_163
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 250
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_164
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 179
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_165
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 175
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_166
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 172
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_167
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 169
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_168
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 167
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_169
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 168
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_170
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 171
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_171
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 174
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_172
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 177
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_173
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 165
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_174
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 163
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_175
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 162
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_176
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 162
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_177
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 163
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_178
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 164
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-18_179
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 166
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PressClick
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 451
+        width: 410
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MouseOver
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 604
+        width: 399
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ready
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 760
+        width: 234
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NotReady
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 927
+        width: 352
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

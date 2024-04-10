@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: c6842a32fddf27046a443197e851587f
+timeCreated: 1492978303
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BossWall
+    100002: CoreBase
+    100004: CoreShell
+    100006: CrystalBaseMain
+    100008: CrystalLadder
+    100010: Door:pCube20
+    100012: FloorMain
+    100014: Garden
+    100016: GardenSide
+    100018: GardenSide1
+    100020: GrassBase10
+    100022: GrassBase7
+    100024: GrassBase8
+    100026: GrassBase9
+    100028: group1
+    100030: Lamp4
+    100032: Lamp5
+    100034: Lift
+    100036: LiftInside
+    100038: //RootNode
+    100040: mini_Core
+    100042: pCube4
+    100044: pCylinder1
+    100046: pCylinder4
+    100048: polySurface20
+    100050: polySurface21
+    100052: pPipe8
+    100054: pPyramid3
+    100056: thisfile
+    100058: Wall
+    400000: BossWall
+    400002: CoreBase
+    400004: CoreShell
+    400006: CrystalBaseMain
+    400008: CrystalLadder
+    400010: Door:pCube20
+    400012: FloorMain
+    400014: Garden
+    400016: GardenSide
+    400018: GardenSide1
+    400020: GrassBase10
+    400022: GrassBase7
+    400024: GrassBase8
+    400026: GrassBase9
+    400028: group1
+    400030: Lamp4
+    400032: Lamp5
+    400034: Lift
+    400036: LiftInside
+    400038: //RootNode
+    400040: mini_Core
+    400042: pCube4
+    400044: pCylinder1
+    400046: pCylinder4
+    400048: polySurface20
+    400050: polySurface21
+    400052: pPipe8
+    400054: pPyramid3
+    400056: thisfile
+    400058: Wall
+    2300000: BossWall
+    2300002: CoreBase
+    2300004: CoreShell
+    2300006: CrystalBaseMain
+    2300008: CrystalLadder
+    2300010: Door:pCube20
+    2300012: FloorMain
+    2300014: Garden
+    2300016: GardenSide
+    2300018: GardenSide1
+    2300020: GrassBase10
+    2300022: GrassBase7
+    2300024: GrassBase8
+    2300026: GrassBase9
+    2300028: Lamp4
+    2300030: Lamp5
+    2300032: Lift
+    2300034: LiftInside
+    2300036: mini_Core
+    2300038: polySurface21
+    2300040: pPipe8
+    2300042: pPyramid3
+    2300044: Wall
+    3300000: BossWall
+    3300002: CoreBase
+    3300004: CoreShell
+    3300006: CrystalBaseMain
+    3300008: CrystalLadder
+    3300010: Door:pCube20
+    3300012: FloorMain
+    3300014: Garden
+    3300016: GardenSide
+    3300018: GardenSide1
+    3300020: GrassBase10
+    3300022: GrassBase7
+    3300024: GrassBase8
+    3300026: GrassBase9
+    3300028: Lamp4
+    3300030: Lamp5
+    3300032: Lift
+    3300034: LiftInside
+    3300036: mini_Core
+    3300038: polySurface21
+    3300040: pPipe8
+    3300042: pPyramid3
+    3300044: Wall
+    4300000: CoreBase
+    4300002: CrystalBaseMain
+    4300004: Lift
+    4300006: LiftInside
+    4300008: FloorMain
+    4300010: BossWall
+    4300012: Garden
+    4300014: GardenSide
+    4300016: GardenSide1
+    4300018: polySurface21
+    4300020: CrystalLadder
+    4300022: Wall
+    4300024: mini_Core
+    4300026: CoreShell
+    4300028: pPipe8
+    4300030: Lamp4
+    4300032: Lamp5
+    4300034: pPyramid3
+    4300036: GrassBase7
+    4300038: GrassBase8
+    4300040: GrassBase9
+    4300042: GrassBase10
+    4300044: Door:pCube20
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 800
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1268656809216808}
+  m_IsPrefabParent: 1
+--- !u!1 &1268656809216808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4347147301947298}
+  - component: {fileID: 114887486030720884}
+  - component: {fileID: 114798730107423904}
+  - component: {fileID: 114937967064462410}
+  m_Layer: 0
+  m_Name: NetworkManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4347147301947298
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1268656809216808}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.4250374, y: -1.1947384, z: -7.847527}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114798730107423904
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1268656809216808}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 227461547, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  manager: {fileID: 0}
+  showGUI: 1
+  offsetX: 87
+  offsetY: 0
+--- !u!114 &114887486030720884
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1268656809216808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2e1307c6c3afd940b15b7bd933a76a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: 
+  playerCharacter: 0
+  isReady: 0
+  playerObject: {fileID: 0}
+  playerPrefab1: {fileID: 1503367874876370, guid: 50f02194d66f65b46a52a9c477a28beb,
+    type: 2}
+  playerPrefab2: {fileID: 1501868260016594, guid: 0859c25c91849654c81b7aa4dc9a1cc4,
+    type: 2}
+  playerPrefab3: {fileID: 1501868260016594, guid: 0859c25c91849654c81b7aa4dc9a1cc4,
+    type: 2}
+  networkLobbyManager: {fileID: 0}
+  playerlobby: {fileID: 0}
+  backMenu: 0
+--- !u!114 &114937967064462410
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1268656809216808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 335f8f4a07745044893887b520d062ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_NetworkPort: 7777
+  m_ServerBindToIP: 0
+  m_ServerBindAddress: 
+  m_NetworkAddress: localhost
+  m_DontDestroyOnLoad: 1
+  m_RunInBackground: 1
+  m_ScriptCRCCheck: 1
+  m_MaxDelay: 0.01
+  m_LogLevel: 2
+  m_PlayerPrefab: {fileID: 0}
+  m_AutoCreatePlayer: 1
+  m_PlayerSpawnMethod: 1
+  m_OfflineScene: menu
+  m_OnlineScene: 
+  m_SpawnPrefabs:
+  - {fileID: 1503367874876370, guid: 50f02194d66f65b46a52a9c477a28beb, type: 2}
+  - {fileID: 1501868260016594, guid: 0859c25c91849654c81b7aa4dc9a1cc4, type: 2}
+  - {fileID: 1501868260016594, guid: 0859c25c91849654c81b7aa4dc9a1cc4, type: 2}
+  - {fileID: 1849230656071716, guid: 17061174363bef04199c9e1f2e948101, type: 2}
+  - {fileID: 1771382325809246, guid: 4b2a5deb285366f44bfd36672cca2aa6, type: 2}
+  - {fileID: 1276980260590428, guid: 4a34842da32bfe04a808121155bb8390, type: 2}
+  - {fileID: 1615884966271060, guid: cbd1e2722d26c46468972b5bdfd33fec, type: 2}
+  - {fileID: 1784255254223044, guid: 00013faf4b8a6304ca832e0523069ae8, type: 2}
+  - {fileID: 1030190107910260, guid: 46353ec37b3454642bd73227a1156d7b, type: 2}
+  - {fileID: 1103407635527736, guid: 530c723bf557e9440831187abae00228, type: 2}
+  - {fileID: 1718928483461480, guid: e80a8ffe0a69c164184a022e61d29597, type: 2}
+  - {fileID: 1718928483461480, guid: b1f37cd91f244dc49abfa95c1b49b294, type: 2}
+  - {fileID: 1901083650450118, guid: d5526084a39b7e04c9124db0bda2d915, type: 2}
+  - {fileID: 1779541035242578, guid: b80cad75eb9c32b43bda8aa470c2e6af, type: 2}
+  - {fileID: 1649457242072816, guid: 3f7af5c8ecb55744d89f2eccd667d729, type: 2}
+  - {fileID: 1685084400575218, guid: dd6f21198f7fe5e4db12f42d6a1cc27a, type: 2}
+  - {fileID: 1805233498402838, guid: bec152396a20af843a3f9198e4a18541, type: 2}
+  - {fileID: 1935352315944954, guid: adc64fe7b5edf86449b487bb072be9bc, type: 2}
+  - {fileID: 1030190107910260, guid: 26e8b3d4df8ec744494c753541b2f936, type: 2}
+  - {fileID: 1703828109969240, guid: 3b5d97f6016842440848343bfc5cfdad, type: 2}
+  - {fileID: 1298188343916358, guid: 75850225c9bd8d4408113a2f5e4ac078, type: 2}
+  - {fileID: 1549296811226478, guid: 7c1a604570700f24c8cda2eceb642b51, type: 2}
+  m_CustomConfig: 0
+  m_MaxConnections: 4
+  m_ConnectionConfig:
+    m_PacketSize: 1500
+    m_FragmentSize: 500
+    m_ResendTimeout: 1200
+    m_DisconnectTimeout: 2000
+    m_ConnectTimeout: 2000
+    m_MinUpdateTimeout: 10
+    m_PingTimeout: 500
+    m_ReducedPingTimeout: 100
+    m_AllCostTimeout: 20
+    m_NetworkDropThreshold: 5
+    m_OverflowDropThreshold: 5
+    m_MaxConnectionAttempt: 10
+    m_AckDelay: 33
+    m_SendDelay: 10
+    m_MaxCombinedReliableMessageSize: 100
+    m_MaxCombinedReliableMessageCount: 10
+    m_MaxSentMessageQueueSize: 128
+    m_AcksType: 1
+    m_UsePlatformSpecificProtocols: 0
+    m_InitialBandwidth: 0
+    m_BandwidthPeakFactor: 2
+    m_WebSocketReceiveBufferMaxSize: 0
+    m_UdpSocketReceiveBufferMaxSize: 0
+    m_SSLCertFilePath: 
+    m_SSLPrivateKeyFilePath: 
+    m_SSLCAFilePath: 
+    m_Channels: []
+  m_GlobalConfig:
+    m_ThreadAwakeTimeout: 1
+    m_ReactorModel: 0
+    m_ReactorMaximumReceivedMessages: 1024
+    m_ReactorMaximumSentMessages: 1024
+    m_MaxPacketSize: 2000
+    m_MaxHosts: 16
+    m_ThreadPoolSize: 1
+    m_MinTimerTimeout: 1
+    m_MaxTimerTimeout: 12000
+    m_MinNetSimulatorTimeout: 1
+    m_MaxNetSimulatorTimeout: 12000
+  m_Channels: 
+  m_UseWebSockets: 0
+  m_UseSimulator: 0
+  m_SimulatedLatency: 1
+  m_PacketLossPercentage: 0
+  m_MaxBufferedPackets: 16
+  m_AllowFragmentation: 1
+  m_MatchHost: mm.unet.unity3d.com
+  m_MatchPort: 443
+  matchName: default
+  matchSize: 4
+  isNetworkActive: 0
+  matchMaker: {fileID: 0}
+  m_ShowLobbyGUI: 0
+  m_MaxPlayers: 4
+  m_MaxPlayersPerConnection: 1
+  m_MinPlayers: 0
+  m_LobbyPlayerPrefab: {fileID: 114330528637538222, guid: 7f0a6fa46f8ed1c48963d86f1b147881,
+    type: 2}
+  m_GamePlayerPrefab: {fileID: 0}
+  m_LobbyScene: menu
+  m_PlayScene: Gameplay
+  lobbySlots: []
+  chosenCharacter: 0
+  playerdata: {fileID: 0}
+  playerObject: {fileID: 0}
+  joinFinish: 0
+  lobbyscene: menu

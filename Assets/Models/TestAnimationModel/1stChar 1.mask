@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 1stChar 1
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: AllCT
+    m_Weight: 1
+  - m_Path: AllCT/group7
+    m_Weight: 1
+  - m_Path: AllCT/group7/RootControl
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/L_hip
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/L_hip/L_knee
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/L_hip/L_knee/L_ankle
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/L_hip/L_knee/L_ankle/L_foot
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/L_hip/L_knee/L_ankle/L_foot/L_Toe
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/R_hip
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/R_hip/R_knee
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/R_hip/R_knee/R_ankle
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/R_hip/R_knee/R_ankle/R_foot
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/R_hip/R_knee/R_ankle/R_foot/R_Toe
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/L_beast
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/R_beast
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_Index
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_Index/L_Index2
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_Index/L_Index2/L_Index3
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_middle
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_middle/L_middle2
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_middle/L_middle2/L_middle3
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_pink
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_pink/L_pink2
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_pink/L_pink2/L_pink3
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_ring
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_ring/L_ring2
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_ring/L_ring2/L_ring3
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_Thumb
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_Thumb/L_Thumb1
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_Thumb/L_Thumb1/L_Thumb2
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/L_principle/L_shoulder/L_Elbow/L_twist/L_hand/L_Thumb/L_Thumb1/L_Thumb2/L_Thumb3
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/NeckBase
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/NeckBase/Mouth
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/NeckBase/Mouth/HeadEnd
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_Index
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_Index/R_Index2
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_Index/R_Index2/R_Index3
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_middle
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_middle/R_middle2
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_middle/R_middle2/R_middle3
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_pink
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_pink/R_pink2
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_pink/R_pink2/R_pink3
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_ring
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_ring/R_ring2
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_ring/R_ring2/R_ring3
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_Thumb
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_Thumb/R_Thumb1
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_Thumb/R_Thumb1/R_Thumb2
+    m_Weight: 1
+  - m_Path: AllCT/skeletonGroup/Root/Spine/Spine1/Spine2/Spine3/R_principle/R_shoulder/R_Elbow/R_twist/R_hand/R_Thumb/R_Thumb1/R_Thumb2/R_Thumb3
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/Belt
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/BeltHead
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/Body1
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/Hair1
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/Hair2
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/Hair3
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/Hat
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/Head
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/pPlane2
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/pPlane3
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/Right_Ee
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/Right_Ee1
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/Shirt1
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/Shirt2
+    m_Weight: 1
+  - m_Path: CharacterCharModelAnimate/ShirtNeck
+    m_Weight: 1
+  - m_Path: pCube8
+    m_Weight: 1

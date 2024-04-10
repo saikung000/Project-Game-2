@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 0f2b336b418278f47a31db3b1fd47d2d
+timeCreated: 1492606684
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Boss_Big_Gun
+    100004: Boss_Body
+    100006: Boss_Front_gun
+    100008: Boss_front_gun2
+    100010: Boss_Front_gun3
+    100012: Boss_Front_gun4
+    100014: Boss_Leg_BL
+    100016: Boss_Leg_BR
+    100018: Boss_Leg_FL
+    100020: Boss_Leg_FR
+    100022: Boss_MillsileBase_1
+    100024: Boss_MillsileBase_2
+    100026: Boss_MillsileBase_3
+    100028: Boss_MillsileBase_4
+    100030: CATRigAnkleBone001
+    100032: CATRigAnkleBone001Bone001
+    100034: CATRigAnkleBone001Bone001 1
+    100036: CATRigAnkleBone001Bone001 2
+    100038: CATRigAnkleBone001Bone001 3
+    100040: CATRigAnkleBone001Bone001 4
+    100042: CATRigAnkleBone001Bone001 5
+    100044: CATRigAnkleBone001Bone001 6
+    100046: CATRigAnkleBone001Bone001Bone004
+    100048: CATRigAnkleBone001Bone001Bone004 1
+    100050: CATRigAnkleBone001Bone001Bone004 2
+    100052: CATRigAnkleBone001Bone001Bone004 3
+    100054: CATRigAnkleBone001Bone002
+    100056: CATRigAnkleBone001Bone002 1
+    100058: CATRigAnkleBone001Bone002 2
+    100060: CATRigAnkleBone001Bone002 3
+    100062: CATRigAnkleBone001Bone003
+    100064: CATRigAnkleBone001Bone003 1
+    100066: CATRigAnkleBone001Bone003 2
+    100068: CATRigAnkleBone001Bone003 3
+    100070: CATRigHub001
+    100072: CATRigHub001Bone001
+    100074: CATRigHub001Bone002
+    100076: CATRigHub001Bone003
+    100078: CATRigHub001Bone004
+    100080: CATRigHub001Bone005
+    100082: CATRigLLeg1
+    100084: CATRigLLeg1 1
+    100086: CATRigLLeg2
+    100088: CATRigLLeg2 1
+    100090: CATRigLLeg3
+    100092: CATRigLLeg3 1
+    100094: CATRigLLegAnkle
+    100096: CATRigLLegAnkle 1
+    100098: CATRigLLegPlatform
+    100100: CATRigLLegPlatform 1
+    100102: CATRigRLeg1
+    100104: CATRigRLeg1 1
+    100106: CATRigRLeg2
+    100108: CATRigRLeg2 1
+    100110: CATRigRLeg3
+    100112: CATRigRLeg3 1
+    100114: CATRigRLegAnkle
+    100116: CATRigRLegAnkle 1
+    100118: CATRigRLegPlatform
+    100120: CATRigRLegPlatform 1
+    100122: Character001
+    100124: group2
+    100126: Gun
+    100128: pCube10
+    100130: pCube8
+    100132: pCube9
+    100134: polySurface11
+    100136: pSphere1
+    100138: pSphere4
+    100140: transform6
+    400000: //RootNode
+    400002: Boss_Big_Gun
+    400004: Boss_Body
+    400006: Boss_Front_gun
+    400008: Boss_front_gun2
+    400010: Boss_Front_gun3
+    400012: Boss_Front_gun4
+    400014: Boss_Leg_BL
+    400016: Boss_Leg_BR
+    400018: Boss_Leg_FL
+    400020: Boss_Leg_FR
+    400022: Boss_MillsileBase_1
+    400024: Boss_MillsileBase_2
+    400026: Boss_MillsileBase_3
+    400028: Boss_MillsileBase_4
+    400030: CATRigAnkleBone001
+    400032: CATRigAnkleBone001Bone001
+    400034: CATRigAnkleBone001Bone001 1
+    400036: CATRigAnkleBone001Bone001 2
+    400038: CATRigAnkleBone001Bone001 3
+    400040: CATRigAnkleBone001Bone001 4
+    400042: CATRigAnkleBone001Bone001 5
+    400044: CATRigAnkleBone001Bone001 6
+    400046: CATRigAnkleBone001Bone001Bone004
+    400048: CATRigAnkleBone001Bone001Bone004 1
+    400050: CATRigAnkleBone001Bone001Bone004 2
+    400052: CATRigAnkleBone001Bone001Bone004 3
+    400054: CATRigAnkleBone001Bone002
+    400056: CATRigAnkleBone001Bone002 1
+    400058: CATRigAnkleBone001Bone002 2
+    400060: CATRigAnkleBone001Bone002 3
+    400062: CATRigAnkleBone001Bone003
+    400064: CATRigAnkleBone001Bone003 1
+    400066: CATRigAnkleBone001Bone003 2
+    400068: CATRigAnkleBone001Bone003 3
+    400070: CATRigHub001
+    400072: CATRigHub001Bone001
+    400074: CATRigHub001Bone002
+    400076: CATRigHub001Bone003
+    400078: CATRigHub001Bone004
+    400080: CATRigHub001Bone005
+    400082: CATRigLLeg1
+    400084: CATRigLLeg1 1
+    400086: CATRigLLeg2
+    400088: CATRigLLeg2 1
+    400090: CATRigLLeg3
+    400092: CATRigLLeg3 1
+    400094: CATRigLLegAnkle
+    400096: CATRigLLegAnkle 1
+    400098: CATRigLLegPlatform
+    400100: CATRigLLegPlatform 1
+    400102: CATRigRLeg1
+    400104: CATRigRLeg1 1
+    400106: CATRigRLeg2
+    400108: CATRigRLeg2 1
+    400110: CATRigRLeg3
+    400112: CATRigRLeg3 1
+    400114: CATRigRLegAnkle
+    400116: CATRigRLegAnkle 1
+    400118: CATRigRLegPlatform
+    400120: CATRigRLegPlatform 1
+    400122: Character001
+    400124: group2
+    400126: Gun
+    400128: pCube10
+    400130: pCube8
+    400132: pCube9
+    400134: polySurface11
+    400136: pSphere1
+    400138: pSphere4
+    400140: transform6
+    4300000: Boss_Body
+    4300002: Boss_MillsileBase_1
+    4300004: Boss_MillsileBase_2
+    4300006: Boss_MillsileBase_3
+    4300008: Boss_MillsileBase_4
+    4300010: Boss_Big_Gun
+    4300012: Boss_Front_gun
+    4300014: Boss_front_gun2
+    4300016: Boss_Front_gun4
+    4300018: Boss_Front_gun3
+    4300020: Boss_Leg_FL
+    4300022: Boss_Leg_BL
+    4300024: Boss_Leg_BR
+    4300026: Boss_Leg_FR
+    7400000: BigBomb_Behind
+    9500000: //RootNode
+    13700000: Boss_Big_Gun
+    13700002: Boss_Body
+    13700004: Boss_Front_gun
+    13700006: Boss_front_gun2
+    13700008: Boss_Front_gun3
+    13700010: Boss_Front_gun4
+    13700012: Boss_Leg_BL
+    13700014: Boss_Leg_BR
+    13700016: Boss_Leg_FL
+    13700018: Boss_Leg_FR
+    13700020: Boss_MillsileBase_1
+    13700022: Boss_MillsileBase_2
+    13700024: Boss_MillsileBase_3
+    13700026: Boss_MillsileBase_4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BigBomb_Behind
+      takeName: Take 001
+      firstFrame: 1810
+      lastFrame: 2040
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss_Big_Gun
+        weight: 1
+      - path: Boss_Leg_BL
+        weight: 1
+      - path: Boss_Leg_BR
+        weight: 1
+      - path: Boss_Leg_FL
+        weight: 1
+      - path: Boss_Leg_FR
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001
+          4
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLeg3 1/CATRigLLegAnkle/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone001Bone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2 1/CATRigLLeg3/CATRigLLegAnkle
+          1/CATRigAnkleBone001/CATRigAnkleBone001Bone003
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone004 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone002 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLeg3 1/CATRigRLegAnkle 1/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone003 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone004 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone002 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLeg3/CATRigRLegAnkle/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone003 3
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/Boss_MillsileBase_1
+        weight: 1
+      - path: group2/Boss_MillsileBase_2
+        weight: 1
+      - path: group2/Boss_MillsileBase_3
+        weight: 1
+      - path: group2/Boss_MillsileBase_4
+        weight: 1
+      - path: group2/pCube8
+        weight: 1
+      - path: group2/pCube9
+        weight: 1
+      - path: group2/pCube10
+        weight: 1
+      - path: group2/polySurface11
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere1/Boss_Body
+        weight: 1
+      - path: group2/pSphere1/transform6
+        weight: 1
+      - path: group2/pSphere4
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Gun/Boss_Front_gun
+        weight: 1
+      - path: Gun/Boss_front_gun2
+        weight: 1
+      - path: Gun/Boss_Front_gun3
+        weight: 1
+      - path: Gun/Boss_Front_gun4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

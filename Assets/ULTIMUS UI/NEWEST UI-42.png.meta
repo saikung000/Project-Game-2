@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 47e67335e174b104487eaf8bbebb156a
+timeCreated: 1491880751
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BTN CANCEL
+    21300002: BTN YES
+    21300004: EXIT BACK
+    21300006: NEWEST UI-42_3
+    21300008: NEWEST UI-42_4
+    21300010: NEWEST UI-42_5
+    21300012: NEWEST UI-42_6
+    21300014: NEWEST UI-42_7
+    21300016: NEWEST UI-42_8
+    21300018: NEWEST UI-42_9
+    21300020: NEWEST UI-42_10
+    21300022: NEWEST UI-42_11
+    21300024: BTN CANCEL OVER
+    21300026: BTN YES OVER
+    21300028: NEWEST UI-42_14
+    21300030: NEWEST UI-42_15
+    21300032: NEWEST UI-42_16
+    21300034: NEWEST UI-42_17
+    21300036: NEWEST UI-42_18
+    21300038: NEWEST UI-42_19
+    21300040: NEWEST UI-42_20
+    21300042: NEWEST UI-42_21
+    21300044: NEWEST UI-42_22
+    21300046: NEWEST UI-42_23
+    21300048: NEWEST UI-42_24
+    21300050: BTN CANCEL PRESS
+    21300052: BTN YES PRESS
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BTN CANCEL
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 753
+        width: 148
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTN YES
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 753
+        width: 148
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EXIT BACK
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 1920
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 237
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 237
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 237
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 237
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_7
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 238
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 237
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 237
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 238
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_11
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 238
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTN CANCEL OVER
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 225
+        width: 148
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTN YES OVER
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 225
+        width: 148
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 135
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 135
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 135
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 134
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_18
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 134
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 127
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_20
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 133
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_21
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 134
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_22
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 135
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_23
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 133
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NEWEST UI-42_24
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 135
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTN CANCEL PRESS
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 122
+        width: 148
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTN YES PRESS
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 122
+        width: 148
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

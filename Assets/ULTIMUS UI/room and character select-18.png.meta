@@ -1,0 +1,2066 @@
+fileFormatVersion: 2
+guid: da75b9212b502334b86848aa6788fce4
+timeCreated: 1492664745
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StartNormal
+    21300002: room and character select-18_1
+    21300004: 1
+    21300006: room and character select-18_3
+    21300008: room and character select-18_4
+    21300010: room and character select-18_5
+    21300012: room and character select-18_6
+    21300014: room and character select-18_7
+    21300016: room and character select-18_8
+    21300018: room and character select-18_9
+    21300020: SelectCharNormal
+    21300022: room and character select-18_17
+    21300024: ReadNormal
+    21300026: room and character select-18_21
+    21300028: room and character select-18_22
+    21300030: room and character select-18_23
+    21300032: room and character select-18_24
+    21300034: room and character select-18_26
+    21300036: room and character select-18_27
+    21300038: room and character select-18_28
+    21300040: room and character select-18_29
+    21300042: room and character select-18_30
+    21300044: room and character select-18_31
+    21300046: room and character select-18_32
+    21300048: room and character select-18_33
+    21300050: room and character select-18_34
+    21300052: room and character select-18_35
+    21300054: room and character select-18_36
+    21300056: room and character select-18_37
+    21300058: room and character select-18_38
+    21300060: room and character select-18_39
+    21300062: room and character select-18_40
+    21300064: room and character select-18_41
+    21300066: room and character select-18_42
+    21300068: room and character select-18_43
+    21300070: room and character select-18_44
+    21300072: room and character select-18_45
+    21300074: room and character select-18_46
+    21300076: room and character select-18_47
+    21300078: room and character select-18_48
+    21300080: room and character select-18_49
+    21300082: room and character select-18_50
+    21300084: room and character select-18_51
+    21300086: room and character select-18_52
+    21300088: room and character select-18_53
+    21300090: room and character select-18_54
+    21300092: room and character select-18_55
+    21300094: room and character select-18_56
+    21300096: room and character select-18_57
+    21300098: room and character select-18_58
+    21300100: room and character select-18_59
+    21300102: room and character select-18_60
+    21300104: room and character select-18_61
+    21300106: room and character select-18_62
+    21300108: room and character select-18_63
+    21300110: SelectCharOver
+    21300112: room and character select-18_65
+    21300114: room and character select-18_66
+    21300116: room and character select-18_67
+    21300118: room and character select-18_68
+    21300120: room and character select-18_69
+    21300122: room and character select-18_70
+    21300124: room and character select-18_71
+    21300126: StartOver
+    21300128: ReadyOver
+    21300130: room and character select-18_74
+    21300132: 2
+    21300134: StartClick
+    21300136: SelectCharClick
+    21300138: ReadClick
+    21300140: room and character select-18_79
+    21300142: room and character select-18_80
+    21300144: room and character select-18_81
+    21300146: room and character select-18_82
+    21300148: room and character select-18_83
+    21300150: room and character select-18_84
+    21300152: room and character select-18_85
+    21300154: room and character select-18_86
+    21300156: room and character select-18_87
+    21300158: room and character select-18_88
+    21300160: room and character select-18_89
+    21300162: room and character select-18_90
+    21300164: room and character select-18_91
+    21300166: room and character select-18_92
+    21300168: room and character select-18_93
+    21300170: room and character select-18_94
+    21300172: room and character select-18_95
+    21300174: room and character select-18_96
+    21300176: room and character select-18_97
+    21300178: Ready
+    21300180: NotReady
+    21300182: room and character select-18_100
+    21300184: room and character select-18_101
+    21300186: Char2
+    21300188: Char1
+    21300190: room and character select-18_104
+    21300192: room and character select-18_105
+    21300194: room and character select-18_106
+    21300196: room and character select-18_107
+    21300198: room and character select-18_108
+    21300200: room and character select-18_109
+    21300202: room and character select-18_110
+    21300204: room and character select-18_111
+    21300206: room and character select-18_112
+    21300208: room and character select-18_113
+    21300210: room and character select-18_114
+    21300212: room and character select-18_115
+    21300214: room and character select-18_116
+    21300216: room and character select-18_117
+    21300218: room and character select-18_118
+    21300220: room and character select-18_119
+    21300222: room and character select-18_120
+    21300224: room and character select-18_121
+    21300226: room and character select-18_122
+    21300228: room and character select-18_123
+    21300230: room and character select-18_124
+    21300232: room and character select-18_125
+    21300234: room and character select-18_126
+    21300236: room and character select-18_127
+    21300238: room and character select-18_128
+    21300240: room and character select-18_129
+    21300242: room and character select-18_130
+    21300244: room and character select-18_131
+    21300246: room and character select-18_132
+    21300248: room and character select-18_133
+    21300250: room and character select-18_134
+    21300252: room and character select-18_135
+    21300254: room and character select-18_136
+    21300256: room and character select-18_137
+    21300258: room and character select-18_138
+    21300260: room and character select-18_139
+    21300262: room and character select-18_140
+    21300264: room and character select-18_141
+    21300266: room and character select-18_142
+    21300268: room and character select-18_143
+    21300270: room and character select-18_144
+    21300272: room and character select-18_145
+    21300274: room and character select-18_146
+    21300276: room and character select-18_147
+    21300278: room and character select-18_148
+    21300280: room and character select-18_149
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StartNormal
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 914
+        width: 478
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_1
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 871
+        width: 391
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 708
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_3
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1010
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_4
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1013
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_5
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1015
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_6
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1018
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_7
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1019
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_8
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1021
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_9
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1021
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SelectCharNormal
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 971
+        width: 284
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_17
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1007
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReadNormal
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 920
+        width: 284
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 934
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_22
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 938
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_23
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 927
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_24
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 931
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_26
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 924
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_27
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 911
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_28
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 916
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_29
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 904
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_30
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 908
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_31
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 896
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_32
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 900
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_33
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 892
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_34
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 888
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_35
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 884
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_36
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 880
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_37
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 876
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_38
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 863
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_39
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 859
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_40
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 855
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_41
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 851
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_42
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 846
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_43
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 842
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_44
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 837
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_45
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 834
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_46
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 829
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_47
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 825
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_48
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 820
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_49
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 817
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_50
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 813
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_51
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 809
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_52
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 805
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_53
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 801
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_54
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 796
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_55
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 725
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_56
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 721
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_57
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 718
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_58
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 715
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_59
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 713
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_60
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 714
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_61
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 717
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_62
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 720
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_63
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 723
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SelectCharOver
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 675
+        width: 284
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_65
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 711
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_66
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 709
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_67
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 708
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_68
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 708
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_69
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 709
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_70
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 710
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_71
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 712
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StartOver
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 596
+        width: 478
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReadyOver
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 620
+        width: 284
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_74
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 432
+        width: 440
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 594
+        width: 377
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StartClick
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 437
+        width: 478
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SelectCharClick
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 498
+        width: 284
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReadClick
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 437
+        width: 284
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_79
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 162
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_80
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 464
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_81
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 467
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_82
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 469
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_83
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 472
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_84
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 473
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_85
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 475
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_86
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 475
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_87
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 474
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_88
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 474
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_89
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 472
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_90
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 471
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_91
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 469
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_92
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 466
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_93
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 461
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_94
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 462
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_95
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 459
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_96
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 388
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_97
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 392
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ready
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 341
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NotReady
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 341
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_100
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 381
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_101
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 385
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Char2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 40
+        width: 286
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Char1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 40
+        width: 286
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_104
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 373
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_105
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 378
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_106
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 365
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_107
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 370
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_108
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 358
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_109
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 362
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_110
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 350
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_111
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 354
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_112
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 346
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_113
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 342
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_114
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 338
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_115
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 334
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_116
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 330
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_117
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 317
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_118
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 313
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_119
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 309
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_120
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 305
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_121
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 300
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_122
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 296
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_123
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 291
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_124
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 288
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_125
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 283
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_126
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 279
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_127
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 274
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_128
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 271
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_129
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 267
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_130
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 263
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_131
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 259
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_132
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 255
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_133
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 250
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_134
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 179
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_135
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 175
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_136
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 172
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_137
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 169
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_138
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 167
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_139
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 168
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_140
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 171
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_141
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 174
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_142
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 177
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_143
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 165
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_144
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 163
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_145
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 162
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_146
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 162
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_147
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 163
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_148
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 164
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: room and character select-18_149
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 166
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
